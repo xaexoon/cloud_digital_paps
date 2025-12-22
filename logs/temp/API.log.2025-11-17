@@ -1,0 +1,225 @@
+[2025-11-17 09:53:11] [API] [INFO] 파일 수신: 20251117_095311_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 09:53:11] [API] [INFO] 파일 저장: 20251117_095311_20251117_095311_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 09:55:51] [API] [INFO] 파일 수신: 20251117_095551_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 09:55:51] [API] [INFO] 파일 저장: 20251117_095551_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 09:55:51] [API] [ERROR] 업로드 오류: name 'saved_filename' is not defined
+[2025-11-17 09:56:22] [API] [INFO] 파일 수신: 20251117_095622_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 09:56:22] [API] [INFO] 파일 저장: 20251117_095622_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 10:05:39] [API] [INFO] 파일 수신: 20251117_100539_student_fitness_record.xlsx
+[2025-11-17 10:05:39] [API] [INFO] 파일 저장: 20251117_100539_student_fitness_record.xlsx
+[2025-11-17 10:05:47] [API] [INFO] 파일 수신: 20251117_100547_student_fitness_record.xlsx
+[2025-11-17 10:05:47] [API] [INFO] 파일 저장: 20251117_100547_student_fitness_record.xlsx
+[2025-11-17 10:30:22] [API] [INFO] 파일 수신: 20251117_103022_데이터 리스트 수정 (2).xlsx
+[2025-11-17 10:30:22] [API] [INFO] 파일 저장: 20251117_103022_데이터 리스트 수정 (2).xlsx
+[2025-11-17 10:30:32] [API] [INFO] email info : aa@naver.com
+[2025-11-17 10:38:58] [API] [INFO] email info : ss@naver.com
+[2025-11-17 10:39:33] [API] [INFO] 파일 수신: 20251117_103933_student_fitness_record.xlsx
+[2025-11-17 10:39:33] [API] [INFO] 파일 저장: 20251117_103933_student_fitness_record.xlsx
+[2025-11-17 10:39:36] [API] [INFO] receive data : email='ss@naver.com' file_id='20251117_103933_student_fitness_record.xlsx'
+[2025-11-17 10:39:45] [API] [INFO] receive data : email='sss@naver.com' file_id='20251117_103933_student_fitness_record.xlsx'
+[2025-11-17 11:02:02] [API] [INFO] 파일 수신: 20251117_110202_student_fitness_record.xlsx
+[2025-11-17 11:02:02] [API] [INFO] 파일 저장: 20251117_110202_student_fitness_record.xlsx
+[2025-11-17 11:02:53] [API] [INFO] 파일 수신: 20251117_110253_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 11:02:53] [API] [INFO] 파일 저장: 20251117_110253_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 11:03:13] [API] [INFO] receive data : email='aa@naver.com' file_id='20251117_110253_student_fitness_record_with_datepicker.xlsx'
+[2025-11-17 12:49:37] [API] [INFO] 파일 수신: 20251117_124937_student_fitness_record.xlsx
+[2025-11-17 12:49:37] [API] [INFO] 파일 저장: 20251117_124937_student_fitness_record.xlsx
+[2025-11-17 12:49:51] [API] [INFO] receive data : email='aa@naver.com' file_id='20251117_124937_student_fitness_record.xlsx'
+[2025-11-17 12:50:52] [API] [INFO] 파일 수신: 20251117_125052_student_fitness_record.xlsx
+[2025-11-17 12:50:52] [API] [INFO] 파일 저장: 20251117_125052_student_fitness_record.xlsx
+[2025-11-17 12:51:10] [API] [INFO] receive data : email='yjkim@aiand.kr' file_id='20251117_125052_student_fitness_record.xlsx'
+[2025-11-17 13:28:16] [API] [INFO] 파일 수신: 20251117_132816_student_fitness_record.xlsx
+[2025-11-17 13:28:16] [API] [INFO] 파일 저장: 20251117_132816_student_fitness_record.xlsx
+[2025-11-17 13:28:30] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_132816_student_fitness_record.xlsx'
+[2025-11-17 13:35:34] [API] [INFO] 파일 수신: 20251117_133534_student_fitness_record.xlsx
+[2025-11-17 13:35:34] [API] [INFO] 파일 저장: 20251117_133534_student_fitness_record.xlsx
+[2025-11-17 13:35:41] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_133534_student_fitness_record.xlsx'
+[2025-11-17 13:42:19] [API] [INFO] 파일 수신: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:19] [API] [INFO] 파일 저장: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:19] [API] [INFO] ✅ stored_file_id 저장: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:28] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_134219_student_fitness_record.xlsx'
+[2025-11-17 13:42:28] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 13:42:37] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 13:42:37] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 13:42:37] [API] [INFO]    stored_file_id: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [INFO]    request.file_id: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [INFO]    사용할 파일 ID: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [INFO]    파일 경로 확인: ./uploads\20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [INFO]    ✅ 파일 발견: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 13:42:37] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 13:42:37] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 13:42:37] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 13:42:37] [API] [INFO]    첨부파일: 20251117_134219_student_fitness_record.xlsx
+[2025-11-17 13:42:37] [API] [ERROR] ❌ 이메일 전송 실패: 이메일 설정이 완료되지 않았습니다.
+[2025-11-17 13:45:31] [API] [INFO] 파일 수신: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:31] [API] [INFO] 파일 저장: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:31] [API] [INFO] ✅ stored_file_id 저장: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:38] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_134531_student_fitness_record.xlsx'
+[2025-11-17 13:45:38] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 13:45:47] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 13:45:47] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 13:45:47] [API] [INFO]    stored_file_id: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [INFO]    request.file_id: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [INFO]    사용할 파일 ID: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [INFO]    파일 경로 확인: ./uploads\20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [INFO]    ✅ 파일 발견: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 13:45:47] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 13:45:47] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 13:45:47] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 13:45:47] [API] [INFO]    첨부파일: 20251117_134531_student_fitness_record.xlsx
+[2025-11-17 13:45:47] [API] [ERROR] ❌ 이메일 전송 실패: 이메일 설정이 완료되지 않았습니다.
+[2025-11-17 14:59:20] [API] [INFO] 파일 수신: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:20] [API] [INFO] 파일 저장: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:20] [API] [INFO] ✅ stored_file_id 저장: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:28] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_145920_student_fitness_record.xlsx'
+[2025-11-17 14:59:28] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 14:59:36] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 14:59:36] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 14:59:36] [API] [INFO]    stored_file_id: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [INFO]    request.file_id: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [INFO]    사용할 파일 ID: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [INFO]    파일 경로 확인: ./uploads\20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [INFO]    ✅ 파일 발견: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 14:59:36] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 14:59:36] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 14:59:36] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 14:59:36] [API] [INFO]    첨부파일: 20251117_145920_student_fitness_record.xlsx
+[2025-11-17 14:59:36] [API] [ERROR] ❌ 이메일 전송 실패: 이메일 설정이 완료되지 않았습니다.
+[2025-11-17 15:11:15] [API] [INFO] 파일 수신: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:15] [API] [INFO] 파일 저장: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:15] [API] [INFO] ✅ stored_file_id 저장: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:23] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_151115_student_fitness_record_with_datepicker.xlsx'
+[2025-11-17 15:11:23] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 15:11:30] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 15:11:30] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 15:11:30] [API] [INFO]    stored_file_id: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:30] [API] [INFO]    request.file_id: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:30] [API] [INFO]    사용할 파일 ID: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:30] [API] [INFO]    파일 경로 확인: ./uploads\20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:30] [API] [INFO]    ✅ 파일 발견: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:30] [API] [INFO]    파일 크기: 6617 bytes
+[2025-11-17 15:11:30] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 15:11:30] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 15:11:30] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 15:11:30] [API] [INFO]    첨부파일: 20251117_151115_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 15:11:34] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-17 15:17:11] [API] [INFO] 파일 수신: 20251117_151711_student_fitness_record.xlsx
+[2025-11-17 15:17:11] [API] [INFO] 파일 저장: 20251117_151711_student_fitness_record.xlsx
+[2025-11-17 15:17:11] [API] [INFO] ✅ stored_file_id 저장: 20251117_151711_student_fitness_record.xlsx
+[2025-11-17 15:17:19] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_151711_student_fitness_record.xlsx'
+[2025-11-17 15:17:19] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 15:17:28] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 15:17:28] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 15:17:28] [API] [INFO]    stored_file_id: 20251117_151711_student_fitness_record.xlsx
+[2025-11-17 15:18:09] [API] [INFO] 파일 수신: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:09] [API] [INFO] 파일 저장: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:09] [API] [INFO] ✅ stored_file_id 저장: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:15] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_151809_student_fitness_record.xlsx'
+[2025-11-17 15:18:15] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 15:18:30] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 15:18:30] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 15:18:30] [API] [INFO]    stored_file_id: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:30] [API] [INFO]    origin_file_name: None
+[2025-11-17 15:18:30] [API] [INFO]    request.file_id: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:30] [API] [INFO]    사용할 파일 ID: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:30] [API] [INFO]    파일 경로 확인: ./uploads\20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:30] [API] [INFO]    ✅ 파일 발견: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:30] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 15:18:30] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 15:18:30] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 15:18:30] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 15:18:30] [API] [INFO]    첨부파일: 20251117_151809_student_fitness_record.xlsx
+[2025-11-17 15:18:33] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-17 15:25:37] [API] [INFO] 파일 수신: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:37] [API] [INFO] UPLOAD FILE ORIGIN: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:37] [API] [INFO] 파일 저장: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:37] [API] [INFO] ✅ stored_file_id 저장: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:43] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_152537_student_fitness_record.xlsx'
+[2025-11-17 15:25:43] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 15:25:57] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 15:25:57] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 15:25:57] [API] [INFO]    stored_file_id: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    origin_file_name: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    request.file_id: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    사용할 파일 ID: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    파일 경로 확인: ./uploads\20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    ✅ 파일 발견: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:25:57] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 15:25:57] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 15:25:57] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 15:25:57] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 15:25:57] [API] [INFO]    첨부파일: 20251117_152537_student_fitness_record.xlsx
+[2025-11-17 15:26:00] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-17 16:21:28] [API] [INFO] 파일 수신: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:28] [API] [INFO] UPLOAD FILE ORIGIN: student_fitness_record.xlsx
+[2025-11-17 16:21:28] [API] [INFO] 파일 저장: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:28] [API] [INFO] ✅ stored_file_id 저장: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:37] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_162128_student_fitness_record.xlsx'
+[2025-11-17 16:21:37] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 16:21:45] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 16:21:45] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 16:21:45] [API] [INFO]    stored_file_id: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    origin_file_name: student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    request.file_id: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    사용할 파일 ID: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    파일 경로 확인: ./uploads\20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    ✅ 파일 발견: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:45] [API] [INFO]    파일 크기: 6577 bytes
+[2025-11-17 16:21:45] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 16:21:45] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 16:21:45] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 16:21:45] [API] [INFO]    첨부파일: 20251117_162128_student_fitness_record.xlsx
+[2025-11-17 16:21:49] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-17 16:25:51] [API] [INFO] 파일 수신: 20251117_162551_student_fitness_record.xlsx
+[2025-11-17 16:25:51] [API] [INFO] UPLOAD FILE ORIGIN: student_fitness_record.xlsx
+[2025-11-17 16:25:51] [API] [INFO] 파일 저장: 20251117_162551_student_fitness_record.xlsx
+[2025-11-17 16:25:51] [API] [INFO] ✅ stored_file_id 저장: 20251117_162551_student_fitness_record.xlsx
+[2025-11-17 16:49:14] [API] [INFO] 파일 수신: 20251117_164914_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 16:49:14] [API] [INFO] UPLOAD FILE ORIGIN: student_fitness_record_with_datepicker.xlsx
+[2025-11-17 16:49:14] [API] [INFO] 파일 저장: 20251117_164914_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 16:49:14] [API] [INFO] ✅ stored_file_id 저장: 20251117_164914_student_fitness_record_with_datepicker.xlsx
+[2025-11-17 18:22:08] [API] [INFO] 파일 수신: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:08] [API] [INFO] UPLOAD FILE ORIGIN: 측정표_예시_1.xlsx
+[2025-11-17 18:22:08] [API] [INFO] 파일 저장: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:08] [API] [INFO] ✅ stored_file_id 저장: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:17] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_182208_측정표_예시_1.xlsx'
+[2025-11-17 18:22:17] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 18:22:27] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 18:22:27] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 18:22:27] [API] [INFO]    stored_file_id: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    origin_file_name: 측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    request.file_id: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    사용할 파일 ID: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    파일 경로 확인: ./uploads\20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    ✅ 파일 발견: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:27] [API] [INFO]    파일 크기: 10607 bytes
+[2025-11-17 18:22:27] [API] [ERROR]    ❌ 엑셀 데이터 읽기 실패: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[2025-11-17 18:22:27] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 18:22:27] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 18:22:27] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 18:22:27] [API] [INFO]    첨부파일: 20251117_182208_측정표_예시_1.xlsx
+[2025-11-17 18:22:31] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-17 18:25:34] [API] [INFO] 파일 수신: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:34] [API] [INFO] UPLOAD FILE ORIGIN: 측정표_예시_1.xlsx
+[2025-11-17 18:25:34] [API] [INFO] 파일 저장: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:34] [API] [INFO] ✅ stored_file_id 저장: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:42] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251117_182534_측정표_예시_1.xlsx'
+[2025-11-17 18:25:42] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-17 18:25:50] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-17 18:25:50] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-17 18:25:50] [API] [INFO]    stored_file_id: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    origin_file_name: 측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    request.file_id: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    사용할 파일 ID: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    파일 경로 확인: ./uploads\20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    ✅ 파일 발견: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:50] [API] [INFO]    파일 크기: 10607 bytes
+[2025-11-17 18:25:50] [API] [ERROR]    ❌ 엑셀 데이터 읽기 실패: '이름' 열을 찾을 수 없습니다. 사용 가능한 열: ['학교명', 'Unnamed: 1', 'Unnamed: 2', '왕복달리기 거리', '나이를 선택하세요', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11']
+[2025-11-17 18:25:50] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-17 18:25:50] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-17 18:25:50] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-17 18:25:50] [API] [INFO]    첨부파일: 20251117_182534_측정표_예시_1.xlsx
+[2025-11-17 18:25:53] [API] [INFO] ✅ 이메일 전송 완료

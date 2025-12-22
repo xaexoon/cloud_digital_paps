@@ -1,0 +1,61 @@
+[2025-11-18 09:48:40] [API] [INFO] 파일 수신: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:48:40] [API] [INFO] UPLOAD FILE ORIGIN: 측정표_예시_1.xlsx
+[2025-11-18 09:48:40] [API] [INFO] 파일 저장: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:48:40] [API] [INFO] ✅ stored_file_id 저장: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:48:49] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251118_094840_측정표_예시_1.xlsx'
+[2025-11-18 09:48:49] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-18 09:49:01] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-18 09:49:01] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-18 09:49:01] [API] [INFO]    stored_file_id: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    origin_file_name: 측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    request.file_id: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    사용할 파일 ID: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    파일 경로 확인: ./uploads\20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    ✅ 파일 발견: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:01] [API] [INFO]    파일 크기: 11610 bytes
+[2025-11-18 09:49:02] [API] [ERROR]    ❌ 엑셀 데이터 읽기 실패: '이름' 열을 찾을 수 없습니다. 사용 가능한 열: ['학교명', 'Unnamed: 1', '왕복달리기 거리', '나이를 선택하세요', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6', 'Unnamed: 7', 'Unnamed: 8', 'Unnamed: 9', 'Unnamed: 10']
+[2025-11-18 09:49:02] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-18 09:49:02] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-18 09:49:02] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-18 09:49:02] [API] [INFO]    첨부파일: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 09:49:05] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-18 10:09:24] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-18 10:09:24] [API] [INFO]    stored_email: None
+[2025-11-18 10:09:24] [API] [INFO]    stored_file_id: None
+[2025-11-18 10:09:24] [API] [INFO]    origin_file_name: None
+[2025-11-18 10:09:24] [API] [INFO]    request.file_id: 20251118_094840_측정표_예시_1.xlsx
+[2025-11-18 10:09:42] [API] [INFO] 파일 수신: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:09:42] [API] [INFO] UPLOAD FILE ORIGIN: 측정표_예시_1.xlsx
+[2025-11-18 10:09:42] [API] [INFO] 파일 저장: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:09:42] [API] [INFO] ✅ stored_file_id 저장: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:09:51] [API] [INFO] receive data : email='sjpark@aiand.kr' file_id='20251118_100942_측정표_예시_1.xlsx'
+[2025-11-18 10:09:51] [API] [INFO] ✅ stored_email 저장: sjpark@aiand.kr
+[2025-11-18 10:10:04] [API] [INFO] 📧 Export 요청 처리 시작
+[2025-11-18 10:10:04] [API] [INFO]    stored_email: sjpark@aiand.kr
+[2025-11-18 10:10:04] [API] [INFO]    stored_file_id: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    origin_file_name: 측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    request.file_id: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    사용할 파일 ID: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    파일 경로 확인: ./uploads\20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    ✅ 파일 발견: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:04] [API] [INFO]    파일 크기: 11610 bytes
+[2025-11-18 10:10:04] [API] [INFO] 📋 데이터 목록 (14명): {1: '김민수', 2: '김정희', 3: '김사랑', 4: '박강인', 5: '이지원', 6: '박순재', 7: '김유진', 8: '이시경', 9: '최철', 10: '최백균', 11: '황철민', 12: '최민수', 13: '장고', 14: '고민시'}
+[2025-11-18 10:10:04] [API] [INFO] 📤 이메일 전송 시작
+[2025-11-18 10:10:04] [API] [INFO]    수신자: sjpark@aiand.kr
+[2025-11-18 10:10:04] [API] [INFO]    제목: 디지털팝스 결과확인서
+[2025-11-18 10:10:04] [API] [INFO]    첨부파일: 20251118_100942_측정표_예시_1.xlsx
+[2025-11-18 10:10:08] [API] [INFO] ✅ 이메일 전송 완료
+[2025-11-18 17:48:32] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=18.4 timestamp='2025-11-18 17:48:32'
+[2025-11-18 17:51:55] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=0.0 timestamp='2025-11-18 17:51:55'
+[2025-11-18 17:52:05] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=0.0 timestamp='2025-11-18 17:52:05'
+[2025-11-18 17:52:11] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=11.3 timestamp='2025-11-18 17:52:11'
+[2025-11-18 17:52:13] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=0.0 timestamp='2025-11-18 17:52:13'
+[2025-11-18 17:52:16] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=9.1 timestamp='2025-11-18 17:52:16'
+[2025-11-18 18:06:07] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=0.0 timestamp='2025-11-18 18:06:07'
+[2025-11-18 18:09:43] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=0.0 timestamp='2025-11-18 18:09:42'
+[2025-11-18 18:10:36] [API] [INFO] Receive Data : tag_number=1 exercise_type='run' value=0.0 timestamp='2025-11-18 18:10:36'
+[2025-11-18 18:10:39] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=0.0 timestamp='2025-11-18 18:10:39'
+[2025-11-18 18:10:40] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=0.0 timestamp='2025-11-18 18:10:40'
+[2025-11-18 18:10:41] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=0.0 timestamp='2025-11-18 18:10:41'
+[2025-11-18 18:10:59] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=19.1 timestamp='2025-11-18 18:10:58'
+[2025-11-18 18:11:05] [API] [INFO] Receive Data : tag_number=3 exercise_type='run' value=16.3 timestamp='2025-11-18 18:11:05'

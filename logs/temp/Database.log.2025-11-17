@@ -1,0 +1,30 @@
+[2025-11-17 09:55:37] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 09:55:42] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691a7289e462d0a09b7f652d, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 09:56:14] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 09:56:19] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691a72aefd7ed6385aad4cc8, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 10:39:21] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 10:39:26] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691a7cc99c5fe8467d2de131, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 13:26:56] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 13:27:01] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691aa410c7b512925e6142ba, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 13:41:57] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 13:42:02] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691aa7956331b84b6859450b, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 13:45:08] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 13:45:13] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691aa8549272c5aaec7601aa, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 14:58:46] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 14:58:51] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691ab9961dd739403c921ab8, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 15:06:26] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 15:06:32] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691abb6208b8c64bbd561905, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 15:11:01] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 15:11:06] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691abc75a1460a75bffd1a60, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 15:16:39] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 15:16:44] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691abdc77227934dc62037bb, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 15:17:53] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 15:17:58] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691abe11353eb7ba432046f0, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 15:25:07] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 15:25:12] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691abfc355547d4b6a0dfc9e, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 16:21:08] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 16:21:13] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691acce498a2be741b0ae839, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 18:21:44] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 18:21:49] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691ae928a543937c0b6e1329, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
+[2025-11-17 18:25:16] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
+[2025-11-17 18:25:21] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 691ae9fc58552c87ff87c467, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>
