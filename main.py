@@ -37,17 +37,6 @@ def load_config():
             logger.info(f"업로드 경로: {os.environ['UPLOAD_PATH']}")
             logger.info("=" * 60)
 
-            os.environ["SMTP_SERVER"] = config["option"]["smtp_server"].strip('"')
-            os.environ["SMTP_PORT"] = config["option"]["smtp_port"].strip('"')
-            os.environ["SENDER_EMAIL"] = config["option"]["sender_email"].strip('"')
-            os.environ["SENDER_PASSWORD"] = config["option"]["sender_password"].strip('"')
-
-            logger.info("=" * 60)
-            logger.info(" SMTP 설정 로드 완료 ")
-            logger.info(f" SMTP SERVER : {os.environ['SMTP_SERVER']} ")
-            logger.info(f" SMTP PORT : {os.environ['SMTP_PORT']} ")
-            logger.info(f" SMTP SENDER EMAIL : {os.environ['SENDER_EMAIL']} ")
-            logger.info(f" SMTP SENDER PASSWORD : {os.environ['SENDER_PASSWORD']} ")
             logger.info("=" * 60)
 
             return True

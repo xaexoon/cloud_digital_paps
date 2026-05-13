@@ -1,10 +1,18 @@
 # src/web_server/web_server.py
 import uvicorn
 import os
+import configparser
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from src.api.api_router import router as api_router
+# from src.api.api_router import router as api_router
+from src.routers.upload_router import router as upload_router
+from src.routers.download_router import router as download_router
+from src.routers.measurement_router import router as measurement_router
+from src.routers.pdf_router import router as pdf_router
+from src.routers.search_router import router as search_router
+from src.routers.grade_standards_router import router as grade_standards_router
 from src.logger.logger import get_logger
+
 
 logger = get_logger('WebServer')
 
@@ -21,7 +29,29 @@ app.add_middleware(
 )
 
 # API 라우터 등록
-app.include_router(api_router)
+#app.include_router(api_router)
+app.include_router(upload_router)
+app.include_router(download_router)
+app.include_router(measurement_router)
+app.include_router(pdf_router)
+app.include_router(search_router)
+app.include_router(grade_standards_router)
+
+def load_config():
+    """option.ini에서 설정 로드"""
+    base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    config_path = os.path.join(base_dir, "option.ini")
+
+    config = configparser.ConfigParser()
+    config.read(config_path, encoding="utf-8")
+
+    return {
+        "server_ip": config["option"].get("server_ip", "0.0.0.0").strip('"'),
+        "server_port": int(config["option"].get("server_port", "8000").strip('"')),
+        "upload_path": config["option"].get("upload_path", "./uploads").strip('"'),
+        "database_url": config["option"].get("database_url", "").strip('"'),
+        "database_name": config["option"].get("database_name", "paps").strip('"'),
+    }
 
 
 @app.on_event("startup")
@@ -75,14 +105,18 @@ def health_check():
 
 def start_web_server():
     """웹서버 시작"""
-    port = int(os.getenv("SERVER_PORT", "8080"))
+    # option.ini에서 설정 로드
+    config = load_config()
 
-    logger.info(f"웹서버 시작: 0.0.0.0:{port}")
+    server_ip = config["server_ip"]
+    server_port = config["server_port"]
+
+    logger.info(f"웹서버 시작: {server_ip}:{server_port}")
 
     uvicorn.run(
         app,
-        host="0.0.0.0",
-        port=port,
+        host="0.0.0.0",  # 외부 접속 허용을 위해 0.0.0.0 유지
+        port=server_port,
         log_level="info",
         log_config=None
     )

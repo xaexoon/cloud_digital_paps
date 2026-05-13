@@ -1,2 +1,0 @@
-[2025-11-13 16:05:34] [Database] [INFO] MongoDB 연결 : mongodb://110.165.16.135:27017/
-[2025-11-13 16:05:39] [Database] [ERROR] ❌ MongoDB 연결 실패: No servers found yet, Timeout: 5.0s, Topology Description: <TopologyDescription id: 6915833e614058661c933c88, topology_type: Unknown, servers: [<ServerDescription ('110.165.16.135', 27017) server_type: Unknown, rtt: None>]>

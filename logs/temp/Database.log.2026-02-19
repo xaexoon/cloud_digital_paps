@@ -1,0 +1,74 @@
+[2026-02-19 10:58:06] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@127.0.0.1:27017/?authSource=admin
+[2026-02-19 10:58:06] [Database] [ERROR] ❌ 데이터베이스 초기화 오류: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+[2026-02-19 10:58:14] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@127.0.0.1:27017/?authSource=admin
+[2026-02-19 10:58:14] [Database] [ERROR] ❌ 데이터베이스 초기화 오류: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+[2026-02-19 10:59:56] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@127.0.0.1:27017/?authSource=admin
+[2026-02-19 10:59:56] [Database] [ERROR] ❌ 데이터베이스 초기화 오류: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+[2026-02-19 11:00:25] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:00:25] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:02:38] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:02:38] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:05:02] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:05:02] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:06:23] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:06:23] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:07:34] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:07:34] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:09:04] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:09:04] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:09:12] [Database] [INFO] 🔍 학교 검색 'ㅇ': 0건
+[2026-02-19 11:09:13] [Database] [INFO] 🔍 학교 검색 '우': 0건
+[2026-02-19 11:09:14] [Database] [INFO] 🔍 학교 검색 '울산': 1건
+[2026-02-19 11:09:19] [Database] [INFO] 🔍 학교 검색 '동평': 0건
+[2026-02-19 11:10:20] [Database] [INFO] 🔍 학교 검색 'ㄷ': 0건
+[2026-02-19 11:10:21] [Database] [INFO] 🔍 학교 검색 '도': 0건
+[2026-02-19 11:10:22] [Database] [INFO] 🔍 학교 검색 '동편ㅇ': 0건
+[2026-02-19 11:10:23] [Database] [INFO] 🔍 학교 검색 '동평': 0건
+[2026-02-19 11:10:25] [Database] [INFO] 🔍 학교 검색 '동평 ': 0건
+[2026-02-19 11:10:27] [Database] [INFO] 🔍 학교 검색 '동평': 0건
+[2026-02-19 11:10:28] [Database] [INFO] 🔍 학교 검색 '동 평': 0건
+[2026-02-19 11:10:30] [Database] [INFO] 🔍 학교 검색 '함월': 0건
+[2026-02-19 11:11:40] [Database] [INFO] MongoDB 연결 : mongodb://admin:paps123@110.165.16.135:27017/?authSource=admin
+[2026-02-19 11:11:40] [Database] [INFO] MongoDB 연결 성공 : paps
+[2026-02-19 11:11:44] [Database] [INFO] 🔍 학교 검색 'ㄷ': 0건
+[2026-02-19 11:11:45] [Database] [INFO] 🔍 학교 검색 '도ㅛ': 0건
+[2026-02-19 11:11:46] [Database] [INFO] 🔍 학교 검색 '도': 20건
+[2026-02-19 11:11:46] [Database] [INFO] 🔍 학교 검색 '도ㅇ': 0건
+[2026-02-19 11:11:47] [Database] [INFO] 🔍 학교 검색 '도': 20건
+[2026-02-19 11:11:48] [Database] [INFO] 🔍 학교 검색 '동': 20건
+[2026-02-19 11:11:48] [Database] [INFO] 🔍 학교 검색 '동ㅍ': 0건
+[2026-02-19 11:11:49] [Database] [INFO] 🔍 학교 검색 '동평': 7건
+[2026-02-19 11:13:41] [Database] [INFO] 🔍 학교 검색 'ㄷ': 0건
+[2026-02-19 11:13:42] [Database] [INFO] 🔍 학교 검색 '동': 20건
+[2026-02-19 11:13:49] [Database] [INFO] 🔍 학교 검색 '동ㅍ': 0건
+[2026-02-19 11:13:51] [Database] [INFO] 🔍 학교 검색 '함월': 2건
+[2026-02-19 11:14:02] [Database] [INFO] 🔍 학교 검색 '울산': 20건
+[2026-02-19 11:14:02] [Database] [INFO] 🔍 학교 검색 '울산초': 1건
+[2026-02-19 11:14:03] [Database] [INFO] 📅 측정일 조회 (school_code=7491131): 2건
+[2026-02-19 11:15:14] [Database] [INFO] 🔍 학교 검색 'ㅇ': 0건
+[2026-02-19 11:15:15] [Database] [INFO] 🔍 학교 검색 '울산': 20건
+[2026-02-19 11:15:17] [Database] [INFO] 🔍 학교 검색 '울산초': 1건
+[2026-02-19 11:15:18] [Database] [INFO] 📅 측정일 조회 (school_code=7491131): 2건
+[2026-02-19 11:15:38] [Database] [INFO] 🔍 학교 검색 '울산초등학': 1건
+[2026-02-19 11:15:38] [Database] [INFO] 🔍 학교 검색 '울산초등': 1건
+[2026-02-19 11:15:40] [Database] [INFO] 🔍 학교 검색 '울산초등ㄷ': 0건
+[2026-02-19 11:15:41] [Database] [INFO] 🔍 학교 검색 '울산초등학': 1건
+[2026-02-19 11:15:45] [Database] [INFO] 🔍 학교 검색 '울산초등학ㄱ': 0건
+[2026-02-19 11:15:45] [Database] [INFO] 🔍 학교 검색 '울산초등학교ㅕ': 0건
+[2026-02-19 11:15:46] [Database] [INFO] 🔍 학교 검색 '울산초등학교': 1건
+[2026-02-19 11:15:47] [Database] [INFO] 📅 측정일 조회 (school_code=7491131): 2건
+[2026-02-19 11:18:41] [Database] [INFO] 🔍 학교 검색 'ㅇ': 0건
+[2026-02-19 11:18:41] [Database] [INFO] 🔍 학교 검색 'ㅎ': 0건
+[2026-02-19 11:18:42] [Database] [INFO] 🔍 학교 검색 '함월': 2건
+[2026-02-19 11:18:47] [Database] [INFO] 🔍 학교 검색 'ㅇ': 0건
+[2026-02-19 11:18:49] [Database] [INFO] 🔍 학교 검색 '울산초등': 1건
+[2026-02-19 11:18:50] [Database] [INFO] 📅 측정일 조회 (school_code=7491131): 2건
+[2026-02-19 11:19:07] [Database] [INFO] 🔍 학교 검색 'ㅇ': 0건
+[2026-02-19 11:19:07] [Database] [INFO] 🔍 학교 검색 '울': 20건
+[2026-02-19 11:19:08] [Database] [INFO] 🔍 학교 검색 '울산': 20건
+[2026-02-19 11:19:10] [Database] [INFO] 🔍 학교 검색 '울산ㅊ': 0건
+[2026-02-19 11:19:10] [Database] [INFO] 🔍 학교 검색 '울산초': 1건
+[2026-02-19 11:19:11] [Database] [INFO] 🔍 학교 검색 '울산촏': 0건
+[2026-02-19 11:19:12] [Database] [INFO] 🔍 학교 검색 '울산초드': 0건
+[2026-02-19 11:19:12] [Database] [INFO] 🔍 학교 검색 '울산초등': 1건
+[2026-02-19 11:19:13] [Database] [INFO] 📅 측정일 조회 (school_code=7491131): 2건
