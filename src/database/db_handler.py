@@ -95,35 +95,12 @@ def get_db():
     return db
 
 
-def find_school_seq(school_name: str):
-    try:
-        use_db = mongo_client["paps"]
-        school_info = use_db["school_info"]
-
-        result = school_info.find_one({"school_name": school_name})
-
-        if result:
-            logger.info(f"학교 찾음 : {school_name} -> {result['school_seq']}")
-            return result["school_seq"]
-        else:
-            logger.warning(f"학교를 찾을 수 없음 : {school_name}")
-            return None
-
-    except Exception as e:
-        logger.error(f"school_seq 조회 오류 : {str(e)}")
-        return None
-
-
 def close_database():
     global mongo_client
     if mongo_client:
         mongo_client.close()
         logger.info("MongoDB 연결 종료")
 
-
-def insert_data(data):
-    use_db = mongo_client[db_name]
-    use_collection = use_db[measurement_collect_name]
 
 def get_users_by_school(school_code: str):
     """학교별 학생 조회"""
@@ -133,16 +110,6 @@ def get_users_by_school(school_code: str):
     except Exception as e:
         logger.error(f"❌ 학생 조회 오류: {str(e)}")
         return []
-
-def get_measurements_by_school(school_code: str):
-    """학교별 측정 데이터 조회"""
-    try:
-        use_db = mongo_client["paps"]
-        return list(use_db.measurement_data.find({"school_code": school_code}))
-    except Exception as e:
-        logger.error(f"❌ 측정 데이터 조회 오류: {str(e)}")
-        return []
-
 
 def get_measurements_by_tags(tag_numbers: list, target_date=None):
     """태그번호 목록으로 측정 데이터 조회 (최신값만)"""

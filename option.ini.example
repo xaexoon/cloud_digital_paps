@@ -1,0 +1,6 @@
+[option]
+; MongoDB 접속 URL (계정/비밀번호 포함). 실제 값은 option.ini에 작성하고 커밋하지 마세요.
+database_url = "mongodb://<USER>:<PASSWORD>@<HOST>:27017/?authSource=admin"
+database_name = "paps"
+server_port = "8000"
+upload_path = "./uploads"

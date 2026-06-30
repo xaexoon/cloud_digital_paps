@@ -34,14 +34,6 @@ def calculate_total_grade_by_score(total_score: int) -> int:
     return 5
 
 
-def calculate_total_grade(grades: list) -> int:
-    """(하위 호환용) 유효한 등급들의 평균을 계산하여 종합 등급 반환"""
-    valid_grades = [g for g in grades if g and g > 0]
-    if not valid_grades:
-        return 5
-    return round(sum(valid_grades) / len(valid_grades))
-
-
 def calculate_bmi(height: float, weight: float) -> float:
     """BMI 계산"""
     if not height or not weight or height <= 0:

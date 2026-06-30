@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+
+# 설정(민감정보 포함) — option.ini.example을 복사해서 사용
+option.ini
+
+# 런타임 산출물 / 업로드 데이터 (학생 PII 포함)
+logs/
+uploads/
+src/output/
+
+# 백업/아카이브 잔재
+*.zip

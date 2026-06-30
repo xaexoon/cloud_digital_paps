@@ -2,17 +2,6 @@ from pydantic import BaseModel
 from typing import Optional, Union, Dict
 
 
-class EmailData(BaseModel):
-    email: str
-    file_id: str = None
-
-
-class ExportRequest(BaseModel):
-    message: str = None
-    file_id: str = None
-    origin_file_name: str = None
-
-
 class MeasurementData(BaseModel):
     tag_number: str
     exercise_type: str

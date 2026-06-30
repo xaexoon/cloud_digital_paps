@@ -4,7 +4,6 @@ import os
 import configparser
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-# from src.api.api_router import router as api_router
 from src.routers.upload_router import router as upload_router
 from src.routers.download_router import router as download_router
 from src.routers.measurement_router import router as measurement_router
@@ -20,16 +19,18 @@ logger = get_logger('WebServer')
 app = FastAPI(title="Digital PAPS Cloud Server")
 
 # CORS 설정
+# 주의: allow_origins=["*"] 와 allow_credentials=True 는 함께 쓸 수 없음(CORS 스펙상 무효).
+# 현재 쿠키/인증 기반 요청을 쓰지 않으므로 credentials=False 로 두어 와일드카드를 유효하게 유지.
+# 추후 인증을 도입한다면 allow_origins 를 특정 도메인 목록으로 제한할 것.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"]
 )
 
 # API 라우터 등록
-#app.include_router(api_router)
 app.include_router(upload_router)
 app.include_router(download_router)
 app.include_router(measurement_router)
